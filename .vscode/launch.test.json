@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "ExamenEstadia",
+                "projectName": "ExamenEstadia",
+                "workingDirectory": "c:\\Users\\Gabriel\\Desktop\\ExamenEstadia",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "ExamenEstadia",
+                "projectName": "ExamenEstadia",
+                "workingDirectory": "c:\\Users\\Gabriel\\Desktop\\ExamenEstadia",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
